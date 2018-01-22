@@ -1,0 +1,1 @@
+{"rustc":11665425502075765680,"features":"[]","target":4660846807129834575,"profile":14119667493710126711,"deps":[["lazy_static v0.2.11",6773278670571272082]],"local":[{"Precalculated":"1.6.0"}],"rustflags":["--error-format=json"]}

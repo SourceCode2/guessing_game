@@ -1,0 +1,8 @@
+[package]
+name = "guessing_game"
+version = "0.1.0"
+authors = ["SourceCode2 <davidesofronia@gmail.com>"]
+
+[dependencies]
+rand = "0.4.0"
+colored = "1.6.0"
